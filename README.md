@@ -42,7 +42,7 @@ A indicação de status no site não significa que o serviço esteja implementad
 
 ## Hospedagem e publicação
 
-A existência deste repositório público **não confirma** que o GitHub Pages esteja habilitado ou que exista uma publicação pública funcional. A configuração e a URL de produção precisam ser verificadas no GitHub antes de divulgar o site.
+O GitHub Actions registrou uma execução de **build e deploy do GitHub Pages concluída com sucesso** para o commit `6bbde004b397b14d9a0d46507879e123dfa98ee7` em 27/11/2026. Isso confirma que a etapa automatizada de compilação e implantação terminou sem erro. Ainda falta validar a página publicada visualmente em navegador/dispositivos e confirmar a URL pública de produção; portanto, não divulgar o endereço nem considerar a experiência final aprovada até essa conferência.
 
 ## Estrutura técnica atual
 
